@@ -1,0 +1,4 @@
+﻿  Methods.cpp
+E:\prog\Lab1PysarenkovOBD\Methods.cpp(136,14): warning C4309: 'argument': truncation of constant value
+E:\prog\Lab1PysarenkovOBD\Methods.cpp(144,14): warning C4309: 'argument': truncation of constant value
+  Lab1PysarenkovOBD.vcxproj -> E:\prog\Lab1PysarenkovOBD\x64\Debug\Lab1PysarenkovOBD.exe
